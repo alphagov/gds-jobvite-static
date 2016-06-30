@@ -1,0 +1,75 @@
+body {
+  background: white;
+  color: #0b0c0c;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+a:link {
+  color: #005ea5
+}
+
+a:visited {
+  color: #4c2c92
+}
+
+a:hover {
+  color: #2e8aca
+}
+
+a:active {
+  color: #2e8aca
+}
+
+a:focus {
+  background-color: #ffbf47;
+  outline: 3px solid #ffbf47
+}
+
+b,strong {
+  font-weight: 600
+}
+
+p {
+  font-size: 19px;
+  line-height: 1.31579;
+}
+
+h1 {
+  font-size: 38px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 27px;
+  line-height: 1.11111;
+  margin-bottom: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+hr {
+  margin-bottom: 25px;
+}
+
+.jv-page-header h1 {
+  border-bottom: 0;
+}
+
+.jv-job-list {
+  color: inherit;
+}
+
+a.jv-powered-by {
+  color: #999;
+}
+
+.jv-job-detail-meta, .jv-apply-meta {
+  color: inherit;
+}
+
+a.jv-button-primary {
+  color: white;
+}
